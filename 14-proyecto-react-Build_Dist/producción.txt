@@ -1,0 +1,6 @@
+npm run build
+
+luego se sube la carpeta dis (Distribución)
+En este caso se subio a netlify
+
+https://lista-usuarios-react-prueba-dhan.netlify.app/
